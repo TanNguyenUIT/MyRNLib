@@ -1,7 +1,7 @@
 {
   "name": "MyRNLib",
-  "version": "0.0.1",
-  "private": true,
+  "version": "0.0.2",
+  "main": "index.js",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
